@@ -11,6 +11,7 @@ MM/DD/YY - Person
 -----------------------
 -Created Repository
 -Created Google Docs
+-Added a github theme (Not sure what that does, but it sounded cool)
 
 03/07/17 - Tyler
 -----------------------
