@@ -1,7 +1,7 @@
 Changelog
 
 Format:
-MM/DD/YYYY - Person
+MM/DD/YY - Person
 -----------------------
 -Change 1
 -Change 2
