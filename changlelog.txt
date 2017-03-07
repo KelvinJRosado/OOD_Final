@@ -1,0 +1,14 @@
+Changelog
+
+Format:
+MM/DD/YYYY - Person
+-----------------------
+-Change 1
+-Change 2
+
+
+03/07/17 - Kelvin
+-----------------------
+-Created Repository
+-Created Google Docs
+
