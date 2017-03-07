@@ -14,5 +14,5 @@ MM/DD/YYYY - Person
 
 03/07/17 - Tyler
 -----------------------
--Has Joined
+-Joined
 
