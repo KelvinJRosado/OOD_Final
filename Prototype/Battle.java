@@ -23,7 +23,6 @@ public class Battle {
 			System.out.println("Incorrect! The Math Monster ate you ... you dead");
 		
 		in.close();
-		
 	}
 
 }
