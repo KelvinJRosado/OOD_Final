@@ -23,4 +23,5 @@ MM/DD/YY - Person
 
 03/09/17 - Kelvin
 ----------------------
+-Created "Prototype" Folder 
 -Created Proof of Concept for battle system
