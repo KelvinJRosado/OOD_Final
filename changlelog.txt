@@ -25,3 +25,9 @@ MM/DD/YY - Person
 ----------------------
 -Created "Prototype" Folder 
 -Created Proof of Concept for battle system
+
+03/15/17 - Kelvin
+------------------------
+-Created Classes for various Character types
+-Created Parent class for enemies
+-Created Question class
