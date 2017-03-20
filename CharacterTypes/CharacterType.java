@@ -15,7 +15,7 @@ public abstract class CharacterType {
 		damage = d;
 	}
 
-	//USed in constructor to set type of character
+	//Used in constructor to set type of character
 	public void setType(String t){
 		type = t;
 	}
