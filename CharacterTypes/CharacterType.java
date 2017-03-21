@@ -1,9 +1,9 @@
 //Parent Class for our players
 public abstract class CharacterType {
 	
-	private int hp;//Ammount of health of player
+	private int hp = 0;//Amount of health of player
 	private int damage;//Damage dealt by player
-	private String type;//Specific type of character
+	private String type = "NA";//Specific type of character
 	
 	//Used in constructor to set initial hp
 	public void setHp(int h){
@@ -29,6 +29,16 @@ public abstract class CharacterType {
 	public void doDamage(Boss b){
 		//Enemy == Boss
 		b.takeDamage(damage);//Enemy takes damage equal to damage attribute of player
+	}
+	
+	public String test(){
+		
+		String t = "";
+		
+		t+= "I am a " + type + "\n";
+		t+= "I have " + hp + " health points\n";
+		
+		return t;
 	}
 	
 }
