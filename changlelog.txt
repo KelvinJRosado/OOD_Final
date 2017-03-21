@@ -31,3 +31,8 @@ MM/DD/YY - Person
 -Created Classes for various Character types
 -Created Parent class for enemies
 -Created Question class
+
+03/21/17
+------------------------
+-Implemented the Singleton and Factory Patterns (2/4  done)
+-Slightly modifed the CharacterType class
