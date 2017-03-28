@@ -32,7 +32,11 @@ MM/DD/YY - Person
 -Created Parent class for enemies
 -Created Question class
 
-03/21/17
+03/21/17 - Kelvin
 ------------------------
 -Implemented the Singleton and Factory Patterns (2/4  done)
 -Slightly modifed the CharacterType class
+
+03/28/17 - Katelyn
+------------------------
+-Created QuestionObjects
