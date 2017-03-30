@@ -40,3 +40,9 @@ MM/DD/YY - Person
 03/28/17 - Katelyn
 ------------------------
 -Created QuestionObjects
+
+03/30/17 - Kelvin
+------------------------
+-Cleaned up some code
+-Added Easy Questions to EasyBoss
+
