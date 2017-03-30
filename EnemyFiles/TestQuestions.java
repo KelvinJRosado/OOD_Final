@@ -1,14 +1,13 @@
-//Test the Question Class
-public class TestQuestions {
+//Tests the EasyBoss methods
+public class TestEasyBattle {
 
 	public static void main(String[] args) {
-		//Asks what the first letter is and provides choices
-		Question q = new Question("First letter of the alphabet?", "A", "Z", "D", "F");
-		//Asks for 2 + 2 and provides choices
-		Question q2 = new Question("2 + 2?", "4", "2", "22", "10");
+		//Create Player Character and EasyBoss
+		CharacterType me = new Wizard();
+		EasyBoss b = new EasyBoss(me);
 		
-		q.ask();
-		q2.ask();
+		//Attack the player character
+		b.attack();
 
 	}
 
