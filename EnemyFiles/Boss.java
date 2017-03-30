@@ -3,8 +3,9 @@ import java.util.Random;
 //Boss character; Synonymous with enemy 
 public abstract class Boss {
 
-	private int hp;//Health of enemy
-	ArrayList<Question> questions;//Questions asked by boss
+	protected int hp;//Health of enemy
+	protected ArrayList<Question> questions;//Questions asked by boss
+	protected CharacterType player;
 
 	//Sets hp to specified amount and initializes ArrayList
 	public void setHp(int h){
@@ -20,7 +21,7 @@ public abstract class Boss {
 	
 	//Generates a random number in range [0,questions.size() - 1]
 	//Used to pick which question is asked
-	private int randNum(){
+	protected int randNum(){
 		Random r = new Random();
 		return r.nextInt(questions.size());
 	}
@@ -37,6 +38,10 @@ public abstract class Boss {
 	//Adds a Question to the ArrayList
 	public void addQuestion(Question q){
 		questions.add(q);
+	}
+	
+	public void setPlayer(CharacterType c){
+		player = c;
 	}
 	
 }
