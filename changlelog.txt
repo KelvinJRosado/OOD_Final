@@ -46,3 +46,8 @@ MM/DD/YY - Person
 -Cleaned up some code
 -Added Easy Questions to EasyBoss
 
+04/02/17 - Kelvin
+--------------------------------
+-Nearly finished battle system
+-Cleaned up code
+-Removed prototype code
