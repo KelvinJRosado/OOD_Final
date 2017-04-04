@@ -51,3 +51,10 @@ MM/DD/YY - Person
 -Nearly finished battle system
 -Cleaned up code
 -Removed prototype code
+
+04/04/17
+--------------------------------
+-Cleaned up code more
+-Created MediumBoss and HardBoss classes
+-Edited TestBattleClass to add Medium and Hard bosses
+
