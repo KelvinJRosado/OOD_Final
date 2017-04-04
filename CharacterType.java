@@ -37,6 +37,7 @@ public abstract class CharacterType {
 		
 		t+= "I am a " + type + "\n";
 		t+= "I have " + hp + " health points\n";
+		t+= "I deal " + damage + " damage\n";
 		
 		return t;
 	}

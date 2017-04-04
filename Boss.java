@@ -16,7 +16,6 @@ public abstract class Boss {
 	//Take damage equal to specified amount
 	public void takeDamage(int damage){
 		hp -= damage;
-		System.out.println(hp);//Just here to suppress warning message
 	}
 	
 	//Generates a random number in range [0,questions.size() - 1]

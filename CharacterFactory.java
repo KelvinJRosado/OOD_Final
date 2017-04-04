@@ -25,8 +25,6 @@ public class CharacterFactory {
 		
 		type = in.next();
 		
-		in.close();
-		
 		cf.setType(type);
 		
 	}
