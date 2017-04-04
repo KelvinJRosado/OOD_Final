@@ -41,6 +41,12 @@ MM/DD/YY - Person
 ------------------------
 -Created QuestionObjects
 
+
+3/28/17
+------------------------
+-Created randomized order for questions
+
+
 03/30/17 - Kelvin
 ------------------------
 -Cleaned up some code
