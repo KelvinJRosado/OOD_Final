@@ -42,7 +42,7 @@ MM/DD/YY - Person
 -Created QuestionObjects
 
 
-3/28/17
+3/28/17 - Tyler
 ------------------------
 -Created randomized order for questions
 
@@ -64,4 +64,10 @@ MM/DD/YY - Person
 -Created MediumBoss and HardBoss classes
 -Edited TestBattleClass to add Medium and Hard bosses
 -Fixed the random number displayed right after damaging a boss
+
+04/06/17 - Kelvin
+-------------------------------
+-Finsihed battle system
+-Finalized text based version
+-Next step: GUI
 
